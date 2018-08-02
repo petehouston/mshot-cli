@@ -1,0 +1,16 @@
+{
+    "options": {
+        "path": ".",
+        "viewport": {
+            "width": 1280,
+            "height": 720
+        },
+        "timeout": 5000,
+        "extension": "png"
+    },
+    "websites": [
+        "petehouston.com",
+        "moso.com",
+        "loanfactory.com"
+    ]
+}

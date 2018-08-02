@@ -1,0 +1,37 @@
+{
+  "name": "mshot-cli",
+  "version": "1.0.0",
+  "description": "CLI to take screenshots for multiple website at one using Puppeteer.",
+  "main": "index.js",
+  "bin": {
+    "mshot": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petehouston/mshot-cli.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "screenshot",
+    "capture",
+    "snapshot",
+    "proshot",
+    "webshot",
+    "automation",
+    "cli",
+    "command-line"
+  ],
+  "author": "Pete Houston <contact@petehouston.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/petehouston/mshot-cli/issues"
+  },
+  "homepage": "https://github.com/petehouston/mshot-cli#readme",
+  "dependencies": {
+    "meow": "^5.0.0",
+    "node-proshot": "^1.3.6"
+  }
+}
